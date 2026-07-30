@@ -34,20 +34,18 @@ Software Engineering student at **Daffodil International University**, Dhaka. I 
 
 ### 🚀 Projects
 
-**[PharmEx](https://github.com/HunterOvi)** — *Team Leader.* Pharmacy inventory & expiry management system. `Electron` `Node.js` `MySQL`
+**PharmEx** — *Team Leader.* Pharmacy inventory & expiry management system. `Electron` `Node.js` `MySQL`
 
-**[CampusConnect](https://github.com/HunterOvi)** — *System Architect.* Unified student service portal. `HTML/CSS/JS` `MySQL`
+**CampusConnect** — *System Architect.* Unified student service portal. `HTML/CSS/JS` `MySQL`
 
-**[Smart Car Parking](https://github.com/HunterOvi)** — Automated parking with real-time vehicle detection. `Arduino` `C++`
-
-**[Portfolio Site](https://mehedihasanovi.site)** — Personal site with glassmorphism UI, deployed on GitHub Pages.
+**Smart Car Parking** — Automated parking with real-time vehicle detection. `Arduino` `C++`
 
 <br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HunterOvi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HunterOvi&theme=tokyonight&hide_border=true&background=00000000" height="150" alt="streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=HunterOvi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="stats"/>
+<img src="https://streak-stats.demolab.com/?user=HunterOvi&theme=tokyonight&hide_border=true&background=0d1117" height="150" alt="streak"/>
 
 </div>
 

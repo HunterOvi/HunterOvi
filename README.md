@@ -1,72 +1,162 @@
-<h1 align="center">Hi 👋, I'm Md. Mehedi Hasan Ovi</h1>
-<h3 align="center">Software Engineering Student · Full-Stack Developer · Systems Design Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://mehedihasanovi.site" target="_blank">🌐 Portfolio</a> ·
-  <a href="https://linkedin.com/in/mehediovi2003" target="_blank">💼 LinkedIn</a> ·
-  <a href="mailto:ovi.mehedihasan@gmail.com">📧 Email</a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:06B6D4&height=220&section=header&text=Mehedi%20Hasan%20Ovi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20%26%20Systems%20Design&descAlignY=55&descAlign=50" width="100%"/>
 
----
+<a href="https://mehedihasanovi.site" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-mehedihasanovi.site-6D28D9?style=for-the-badge&labelColor=0d1117" />
+</a>
+<a href="https://linkedin.com/in/mehediovi2003" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-mehediovi2003-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+</a>
+<a href="mailto:ovi.mehedihasan@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-06B6D4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+</a>
 
-### 🚀 About Me
+<br/><br/>
 
-- 🎓 B.Sc. in Software Engineering @ **Daffodil International University**
-- 💻 Proficient in **Java, JavaScript, C/C++, and MySQL**, with hands-on experience across full-stack web development and systems engineering
-- 🛠️ Led team-based projects spanning **automated inventory systems** and **service portals**
-- 🌱 Currently building **CampusConnect** — a unified student service portal
-- ⚡ Also into UI/motion design — check out my portfolio site above
-- 📍 Based in Dhaka, Bangladesh
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6D28D9&center=true&vCenter=true&width=600&lines=Building+CampusConnect+%F0%9F%9A%80;Leading+PharmEx+Development+Team;Full-Stack+%2B+Embedded+Systems;Always+Shipping+Something+New" alt="Typing SVG" />
 
----
+</div>
 
-### 🧰 Tech Stack
+<br/>
 
-**Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&section=header" width="100%"/>
 
-**Web & Frameworks**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## ⚡ About Me
 
-**Tools & Database**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+```yaml
+name: "Md. Mehedi Hasan Ovi"
+role: "Software Engineering Student"
+university: "Daffodil International University"
+location: "Dhaka, Bangladesh"
+focus: ["Full-Stack Development", "Systems Design", "Embedded Systems"]
+currently_building: "CampusConnect — unified student service portal"
+soft_skills: ["Problem Solving", "Leadership", "Teamwork", "Adaptability"]
+```
 
----
+<br/>
 
-### 🌟 Featured Projects
+## 🧬 Tech Stack
 
-| Project | Description | Tech |
-|---|---|---|
-| **[PharmEx](https://github.com/HunterOvi)** — *Team Leader* | Pharmacy inventory & expiry management desktop system with automated tracking, billing, supplier management, and medicine search | `Electron` `Node.js` `MySQL` |
-| **[CampusConnect](https://github.com/HunterOvi)** | Centralized student service portal — designed system architecture and authored full technical docs (SRS, UML diagrams, functional requirements) | `HTML/CSS/JS` `MySQL` `System Design` |
-| **[Smart Car Parking](https://github.com/HunterOvi)** | Automated hardware parking solution — vehicle detection algorithms and automatic gate control via microcontrollers | `Arduino Uno` `C++` `Sensors` |
+<div align="center">
 
-> 💡 Replace the placeholder links above with the actual repo URLs once you add them.
+<img src="https://skillicons.dev/icons?i=java,js,cpp,nodejs,express,electron,html,css,mysql,git,github,vscode&theme=dark" />
 
----
+</div>
 
-### 📊 GitHub Stats
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HunterOvi&show_icons=true&theme=tokyonight&hide_border=true" alt="Ovi's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HunterOvi&theme=tokyonight&hide_border=true" alt="Ovi's GitHub streak" height="165"/>
-</p>
+## 🚀 Featured Builds
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HunterOvi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 💊 [PharmEx](https://github.com/HunterOvi) 
+**Team Leader**
 
-<p align="center">
-  <i>🛠️ Problem Solving · 🧭 Leadership · 🤝 Teamwork · 🔄 Adaptability</i>
-</p>
+Pharmacy inventory & expiry management desktop system.
+
+`Electron` `Node.js` `MySQL`
+
+- ✅ Automated tracking & billing
+- ✅ Supplier management
+- ✅ Medicine search engine
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 [CampusConnect](https://github.com/HunterOvi)
+**System Architect**
+
+Centralized student service portal — unified academic & admin services.
+
+`HTML/CSS/JS` `MySQL` `System Design`
+
+- ✅ Full SRS + UML documentation
+- ✅ Fee & service request module
+- ✅ Multi-actor use case design
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚗 [Smart Car Parking](https://github.com/HunterOvi)
+**Hardware Automation**
+
+Automated parking system with real-time vehicle detection.
+
+`Arduino Uno` `C++` `Sensors`
+
+- ✅ Vehicle detection algorithms
+- ✅ Automatic gate control
+- ✅ Microcontroller programming
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 [Portfolio Site](https://mehedihasanovi.site)
+**Design + Dev**
+
+Personal site with glassmorphism UI, deployed via GitHub Pages.
+
+`HTML` `CSS` `JS`
+
+- ✅ Animated gradient blobs
+- ✅ Scroll-reveal animations
+- ✅ Custom domain + HTTPS
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&section=header" width="100%"/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=HunterOvi&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6D28D9&icon_color=06B6D4&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HunterOvi&theme=radical&hide_border=true&background=0d1117&ring=6D28D9&fire=06B6D4&currStreakLabel=06B6D4" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HunterOvi&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6D28D9&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HunterOvi&theme=react-dark&hide_border=true&bg_color=0d1117&color=06B6D4&line=6D28D9&point=ffffff" width="48%"/>
+
+</div>
+
+<br/>
+
+## 🏆 Trophy Case
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=HunterOvi&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" />
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/HunterOvi/HunterOvi/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+> ⚠️ The snake animation above needs a one-time GitHub Actions setup (steps below) — until then it just won't render, everything else on the page works immediately.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&section=header" width="100%"/>
+
+<div align="center">
+
+### 💬 Let's Connect
+
+<img src="https://komarev.com/ghpvc/?username=HunterOvi&label=Profile+Views&color=6D28D9&style=for-the-badge" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6D28D9&height=100&section=footer" width="100%"/>
+
+</div>

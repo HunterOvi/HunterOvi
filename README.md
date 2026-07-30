@@ -44,7 +44,6 @@ Software Engineering student at **Daffodil International University**, Dhaka. I 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HunterOvi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="stats"/>
 <img src="https://streak-stats.demolab.com/?user=HunterOvi&theme=tokyonight&hide_border=true&background=0d1117" height="150" alt="streak"/>
 
 </div>
